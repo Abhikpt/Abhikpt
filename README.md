@@ -26,7 +26,7 @@ I'm a passionate software engineer with a focus on Software and API Automation. 
 - **DevOps**: Basic knowledge
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile URL](www.linkedin.com/in/abhishek-singh-07736215b)
-- GitHub: [Your GitHub Profile URL](https://github.com/yourusername)
+- LinkedIn: [Abhishek Singh](www.linkedin.com/in/abhishek-singh-07736215b)
+- GitHub: [AbhishekKpt](https://github.com/abhishekkpt)
 
 Let's connect and collaborate on exciting projects!
